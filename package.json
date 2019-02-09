@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@nuxtjs/pwa": "^2.0.5",
+    "lodash": ">=4.17.11",
     "node-fetch": "^2.0.0",
     "nuxt": "^1.0.0",
     "nuxt-cluster": "^1.0.0"
